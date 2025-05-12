@@ -39,7 +39,7 @@ body {
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/hhh.jpg" style="width: 45%;" />
-  <img src="image2.jpg" style="width: 45%;" />
+  <img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/R-C.jpg" style="width: 45%;" />
 </div>
 
 
