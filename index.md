@@ -32,8 +32,8 @@
 
 好了正片来了，Git上传的视频文件有问题，这里放一个b站开源的（垃圾抖音）
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=984714877&bvid=BV1ct4y1n7t9&cid=807427488&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=984714877&bvid=BV1ct4y1n7t9&cid=807427488&p=1" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## 添加C语言的一个代码块
 ```C
