@@ -32,6 +32,7 @@ var myVar = "Hello, world!";
 - [ ] 吃一碗猪脚饭，发誓要挣一百万
 
 注意这是看网图，不是我对象，我对象更好看
+
 <img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/hhh.jpg">
 
 ## 链接，听歌
@@ -42,17 +43,8 @@ var myVar = "Hello, world!";
 <img src="https://p11-sign.douyinpic.com/obj/douyin-user-image-file/99f82e528751af6f4ef351e1c4d9c615?lk3s=7b078dd2&x-expires=1747065600&x-signature=IHuUHZG5Ntc5qgW42KIAY9T7260%3D&from=2064092626&s=sticker_comment&se=false&sc=sticker_heif&biz_tag=aweme_comment&l=20250512185631F7A2C86C9AB4463C8D65">
 
 好了正片来了
-  
-<iframe 
-src="https://www.douyin.com/root/search/%E5%9D%A4%E5%9D%A4%E8%B7%B3%E8%88%9E%E5%8E%9F%E8%A7%86%E9%A2%91?aid=b346870f-1c2e-402d-9a3c-fb7a19a03034&modal_id=7414683375727873307&type=general" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+<iframe src="//player.bilibili.com/player.html?aid=59317437&bvid=BV1Pt411G7qh&cid=103365806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
 
 
 
