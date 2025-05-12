@@ -27,9 +27,10 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=475479888&auto=1&height=66"></iframe>
 
 ## 插入一段视频 看坤坤跳舞
+
 <img src="https://p11-sign.douyinpic.com/obj/douyin-user-image-file/99f82e528751af6f4ef351e1c4d9c615?lk3s=7b078dd2&x-expires=1747065600&x-signature=IHuUHZG5Ntc5qgW42KIAY9T7260%3D&from=2064092626&s=sticker_comment&se=false&sc=sticker_heif&biz_tag=aweme_comment&l=20250512185631F7A2C86C9AB4463C8D65">
 
-好了正片来了
+好了正片来了，Git上传的视频文件有问题，这里放一个b站开源的（垃圾抖音）
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=984714877&bvid=BV1ct4y1n7t9&cid=807427488&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
