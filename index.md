@@ -36,7 +36,12 @@ body {
 
 注意这是看网图，不是我对象，我对象更好看
 
-<img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/hhh.jpg">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/hhh.jpg" style="width: 45%;" />
+  <img src="image2.jpg" style="width: 45%;" />
+</div>
+
 
 ## 插入一段视频 看坤坤跳舞
 
