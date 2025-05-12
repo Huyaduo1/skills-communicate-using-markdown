@@ -33,12 +33,20 @@ var myVar = "Hello, world!";
 
 ## 插入一段视频 看坤坤跳舞
 
-
 <video id="video" controls="" preload="none" poster="https://avatars.githubusercontent.com/u/211213103?v=4">
       <source id="mp4" src="https://bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/blob/master/ikun.mp4" type="video/mp4">
 </videos>
 
-
+<iframe 
+src="https://bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/blob/master/ikun.mp4" 
+scrolling="no" 
+border="0" 
+frameborder="no" 
+framespacing="0" 
+allowfullscreen="true" 
+height=600 
+width=800> 
+</iframe>
 
 
 
