@@ -31,12 +31,19 @@ var myVar = "Hello, world!";
 - [ ] 复习期末考试
 - [ ] 吃一碗猪脚饭，发誓要挣一百万
 
+
+<img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/hhh.jpg">
+
+## 链接
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=475479888&auto=1&height=66"></iframe>
+
 ## 插入一段视频 看坤坤跳舞
 
-<video id="video" controls="" preload="none" poster="https://avatars.githubusercontent.com/u/211213103?v=4">
-      <source id="mp4" src="https://bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/blob/master/ikun.mp4" type="video/mp4">
-</videos>
 
+
+  好了
+  
 <iframe 
 src="https://bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/blob/master/ikun.mp4" 
 scrolling="no" 
@@ -48,7 +55,9 @@ height=600
 width=800> 
 </iframe>
 
-
+<video id="video" controls="" preload="none" poster="https://avatars.githubusercontent.com/u/211213103?v=4">
+      <source id="mp4" src="https://bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/blob/master/ikun.mp4" type="video/mp4">
+</videos>
 
 
 
