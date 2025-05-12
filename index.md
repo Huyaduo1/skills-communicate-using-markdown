@@ -1,3 +1,8 @@
+<!-- 使用KaTeX -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+
 # 欢迎来到我的博客
 
 <style>
@@ -50,7 +55,7 @@ body {
 
 ## 添加C语言的一个代码块
 
-<button type="button" onclick="alert('Hello World!')">点击这里</button>
+<button type="button" onclick="alert('Hello World!')">点击这里运行下面的程序</button>
 
 ```C
 #include<stdio.h>
