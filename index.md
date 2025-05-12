@@ -7,22 +7,9 @@
 
 ##  头像
 下面是我的头像
+
 ![图片名](https://avatars.githubusercontent.com/u/211213103?v=4)
 
-
-## 添加C语言的一个代码块
-```C
-#include<stdio.h>
-int main()
-{
-  printf("hello world");
-  return 0;
-}
-```
-这是javascript的，好像看不出来风格有什么不同
-``` javascript
-var myVar = "Hello, world!";
-```
 ## 做个任务列表
 ```c
 //- [ ] 输入你的内容
@@ -46,6 +33,22 @@ var myVar = "Hello, world!";
 
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=984714877&bvid=BV1ct4y1n7t9&cid=807427488&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+
+## 添加C语言的一个代码块
+```C
+#include<stdio.h>
+int main()
+{
+  printf("hello world");
+  return 0;
+}
+```
+这是javascript的，好像看不出来风格有什么不同
+``` javascript
+var myVar = "Hello, world!";
+```
+
+效果不错欧
 
 
 
