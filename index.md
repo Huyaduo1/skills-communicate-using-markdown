@@ -10,11 +10,8 @@ body {
 }
 </style>
 
-# 这是一个标题
 
-这是正文内容，会继承全局样式设置。
-
-我看到了不少开源的构建个人博客的项目，所以打算自己写一个
+我看到了不少开源的构建个人博客的项目，但是没有域名和服务器，所以打算自己利用Github的Page写一个
 它现在是<font color="red">简陋的</font>，但是之后到暑假了我会<font color="red">更新</font>它，并构建一些可以交互的页面，更换一个方便好记的的域名。
 
 现在先放一些文字，图片，视频，链接来试一下这个网页。
@@ -184,17 +181,4 @@ $$
 </html>
 
 
-
-
-<font face=" 楷体 ">我不是黑体字</font>
-
-
-<table><tr><td bgcolor="#E6E6FA">这里的背景色是Lavender</td></tr></table>
-
-<form action="#">
-    <label for="name">姓名:</label>
-    <input type="text" id="name" name="name"><br><br>
-    <input type="submit" value="提交">
-</form>
-
-建议回去看看文章开头的 <a href="#applicable-situation">再看一遍</a>。
+建议回去看看文章开头 <a href="#applicable-situation">再看一遍</a>。
