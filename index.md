@@ -1,5 +1,7 @@
 # 欢迎来到我的博客
 
+<table><tr><td bgcolor="#E6E6FA">这里的背景色是Lavender</td></tr></table>
+
 我看到了不少开源的构建个人博客的项目，所以打算自己写一个
 它现在是简陋的，但是之后到暑假了我会更新它，并构建一些页面，更换一个方便好记的的域名。
 
@@ -54,5 +56,51 @@ var myVar = "Hello, world!";
 
 效果不错欧
 
+<table>
+    <tr>
+        <td>接下来干点什么好呢</td>
+    </tr>
+</table>
 
+
+ 
+$\alpha$
+$\beta$
+$\chi$
+$\Delta$
+$\Gamma$
+$\Theta$
+
+#### 写几个数学公式
+
+ $$
+ \sin^2(\theta) + \cos^2(\theta) = 1
+ $$
+ 
+ $$
+ \sum_{n=1}^\infty k
+ $$
+ 
+ $$
+ \int_a^bf(x)\,dx
+ $$
+ 
+ $$
+ \lim\limits_{x\to\infty}\exp(-x) = 0
+ $$
+ 
+#### 写个矩阵
+$$
+ \left|\begin{matrix}
+    a & b & c \\
+    d & e & f \\
+    g & h & i
+   \end{matrix} \right|
+ $$
+
+<table>
+    <tr>
+        <td>Markdown还可以干什么呢，试一下内嵌的HTLM吧</td>
+    </tr>
+</table>
 
