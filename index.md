@@ -9,6 +9,7 @@
 下面是我的头像
 ![图片名](https://avatars.githubusercontent.com/u/211213103?v=4)
 
+
 ## 添加C语言的一个代码块
 ```C
 #include<stdio.h>
@@ -30,7 +31,10 @@ var myVar = "Hello, world!";
 - [ ] 复习期末考试
 - [ ] 吃一碗猪脚饭，发誓要挣一百万
 
-## 插入一段视频 
+## 插入一段视频 看坤坤跳舞
+
+<vidio src="https://bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/blob/master/ikun.mp4">
+
 
 
 
