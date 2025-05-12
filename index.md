@@ -1,9 +1,21 @@
 # 欢迎来到我的博客
 
-<table><tr><td bgcolor="#E6E6FA">这里的背景色是Lavender</td></tr></table>
+<style>
+/* 全局样式设置 */
+body {
+  font-family: "KaiTi", "楷体_GB2312", sans-serif;  /* 楷体字体（带中文fallback） */
+  color: #000000;                   /* 纯黑色文字 */
+  background-color: #F0FFF4;        /* 浅绿色背景（可替换其他浅绿色值） */
+  margin: 1em;                      /* 保持原有边距 */
+}
+</style>
+
+# 这是一个标题
+
+这是正文内容，会继承全局样式设置。
 
 我看到了不少开源的构建个人博客的项目，所以打算自己写一个
-它现在是简陋的，但是之后到暑假了我会更新它，并构建一些页面，更换一个方便好记的的域名。
+它现在是<font color="red">简陋的</font>，但是之后到暑假了我会<font color="red">更新</font>它，并构建一些可以交互的页面，更换一个方便好记的的域名。
 
 现在先放一些文字，图片，视频，链接来试一下这个网页。
 
@@ -40,6 +52,8 @@
 
 
 ## 添加C语言的一个代码块
+
+<button type="button" onclick="alert('Hello World!')">点击这里</button>
 
 ```C
 #include<stdio.h>
@@ -104,3 +118,83 @@ $$
     </tr>
 </table>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- 引入MathJax 3库（CDN） -->
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+  <!-- MathJax配置 -->
+  <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      packages: {'[+]': ['physics']}  // 可选：扩展包（如需要特殊符号）
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  };
+  </script>
+</head>
+<body>
+
+<h4>希腊字母示例</h4>
+<p>
+  $\alpha$  $\beta$  $\chi$  
+  $\Delta$  $\Gamma$  $\Theta$
+</p>
+
+<h4>数学公式示例</h4>
+
+<p>三角恒等式：</p>
+$$
+\sin^2(\theta) + \cos^2(\theta) = 1
+$$
+
+<p>求和公式：</p>
+$$
+\sum_{n=1}^\infty k
+$$
+
+<p>定积分：</p>
+$$
+\int_a^b f(x)\,dx
+$$
+
+<p>极限：</p>
+$$
+\lim\limits_{x\to\infty} \exp(-x) = 0
+$$
+
+<h4>矩阵示例</h4>
+$$
+\left|
+\begin{matrix}
+  a & b & c \\
+  d & e & f \\
+  g & h & i
+\end{matrix}
+\right|
+$$
+
+</body>
+</html>
+
+
+
+
+<font face=" 楷体 ">我不是黑体字</font>
+
+
+<table><tr><td bgcolor="#E6E6FA">这里的背景色是Lavender</td></tr></table>
+
+<form action="#">
+    <label for="name">姓名:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <input type="submit" value="提交">
+</form>
+
+建议回去看看文章开头的 <a href="#applicable-situation">再看一遍</a>。
