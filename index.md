@@ -7,7 +7,7 @@
 
 下面是我的头像
 
-图片添加有两种方法，这是第一种：
+## 图片添加有两种方法，这是第一种：
 
 `![图片的名字]（图片的链接）`
 
@@ -21,3 +21,27 @@
 
 
 
+## 添加代码块
+
+#### 单行代码；
+`printf(hello world);`
+
+#### 多行代码
+
+```
+#include<stdio.h>
+int main()
+{
+  printf("hello world");
+  return 0;
+}
+```
+##### 代码的风格
+```C
+#include<stdio.h>
+int main()
+{
+  printf("hello world");
+  return 0;
+}
+```
