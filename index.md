@@ -38,7 +38,6 @@ body {
 
 <img src="https://raw.bgithub.xyz/Huyaduo1/skills-communicate-using-markdown/refs/heads/master/hhh.jpg">
 
-
 ## 插入一段视频 看坤坤跳舞
 
 <img src="https://p11-sign.douyinpic.com/obj/douyin-user-image-file/99f82e528751af6f4ef351e1c4d9c615?lk3s=7b078dd2&x-expires=1747065600&x-signature=IHuUHZG5Ntc5qgW42KIAY9T7260%3D&from=2064092626&s=sticker_comment&se=false&sc=sticker_heif&biz_tag=aweme_comment&l=20250512185631F7A2C86C9AB4463C8D65">
@@ -79,14 +78,6 @@ var myVar = "Hello, world!";
 </table>
 
 
- 
-$\alpha$
-$\beta$
-$\chi$
-$\Delta$
-$\Gamma$
-$\Theta$
-
 #### 写几个数学公式
 
  $$
@@ -106,6 +97,7 @@ $\Theta$
  $$
  
 #### 写个矩阵
+
 $$
  \left|\begin{matrix}
     a & b & c \\
@@ -120,70 +112,6 @@ $$
     </tr>
 </table>
 
-
-<!DOCTYPE html>
-<html>
-<head>
-  <!-- 引入MathJax 3库（CDN） -->
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  
-  <!-- MathJax配置 -->
-  <script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']],
-      packages: {'[+]': ['physics']}  // 可选：扩展包（如需要特殊符号）
-    },
-    svg: {
-      fontCache: 'global'
-    }
-  };
-  </script>
-</head>
-<body>
-
-<h4>希腊字母示例</h4>
-<p>
-  $\alpha$  $\beta$  $\chi$  
-  $\Delta$  $\Gamma$  $\Theta$
-</p>
-
-<h4>数学公式示例</h4>
-
-<p>三角恒等式：</p>
-$$
-\sin^2(\theta) + \cos^2(\theta) = 1
-$$
-
-<p>求和公式：</p>
-$$
-\sum_{n=1}^\infty k
-$$
-
-<p>定积分：</p>
-$$
-\int_a^b f(x)\,dx
-$$
-
-<p>极限：</p>
-$$
-\lim\limits_{x\to\infty} \exp(-x) = 0
-$$
-
-<h4>矩阵示例</h4>
-$$
-\left|
-\begin{matrix}
-  a & b & c \\
-  d & e & f \\
-  g & h & i
-\end{matrix}
-\right|
-$$
-
-</body>
-</html>
 
 
 建议回去看看文章开头 <a href="#applicable-situation">再看一遍</a>。
