@@ -37,6 +37,7 @@ int main()
 }
 ```
 ##### 代码的风格
+c语言
 ```C
 #include<stdio.h>
 int main()
@@ -44,4 +45,8 @@ int main()
   printf("hello world");
   return 0;
 }
+```
+javascript
+``` javascript
+var myVar = "Hello, world!";
 ```
