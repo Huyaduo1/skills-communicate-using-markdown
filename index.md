@@ -43,10 +43,8 @@ var myVar = "Hello, world!";
 <img src="https://p11-sign.douyinpic.com/obj/douyin-user-image-file/99f82e528751af6f4ef351e1c4d9c615?lk3s=7b078dd2&x-expires=1747065600&x-signature=IHuUHZG5Ntc5qgW42KIAY9T7260%3D&from=2064092626&s=sticker_comment&se=false&sc=sticker_heif&biz_tag=aweme_comment&l=20250512185631F7A2C86C9AB4463C8D65">
 
 好了正片来了
-<iframe src="//player.bilibili.com/player.html?aid=59317437&bvid=BV1Pt411G7qh&cid=103365806&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-
-
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=984714877&bvid=BV1ct4y1n7t9&cid=807427488&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 
 
